@@ -29,7 +29,7 @@ target("commonlibob64-template")
     add_rules("commonlibob64.plugin", {
         name = "commonlibob64-template",
         author = "qudix",
-        description = "F4SE plugin template using CommonLibOB64"
+        description = "OBSE plugin template using CommonLibOB64"
     })
 
     -- add src files
