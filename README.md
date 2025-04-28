@@ -8,7 +8,7 @@ This is a basic plugin template using CommonLibOB64.
 
 ## Getting Started
 ```bat
-git clone --recurse-submodules https://github.com/qudix/commonlibob64-template
+git clone --recurse-submodules https://github.com/libxse/commonlibob64-template
 cd commonlibob64-template
 ```
 
