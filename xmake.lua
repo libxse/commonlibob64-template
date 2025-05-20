@@ -25,7 +25,7 @@ target("commonlibob64-template")
     -- add dependencies to target
     add_deps("commonlibob64")
 
-    -- add commonlibsse plugin
+    -- add commonlibob64 plugin
     add_rules("commonlibob64.plugin", {
         name = "commonlibob64-template",
         author = "qudix",
