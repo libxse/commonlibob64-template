@@ -28,8 +28,8 @@ target("commonlibob64-template")
     -- add commonlibob64 plugin
     add_rules("commonlibob64.plugin", {
         name = "commonlibob64-template",
-        author = "qudix",
-        description = "OBSE plugin template using CommonLibOB64"
+        author = "libxse",
+        description = "OBSE64 plugin template using CommonLibOB64"
     })
 
     -- add src files
