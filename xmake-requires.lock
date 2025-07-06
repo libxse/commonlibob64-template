@@ -11,13 +11,6 @@
             },
             version = "3.30.5"
         },
-        ["commonlib-shared ce4414f593ae9c0c084c5b44e4be8620630e5921#0defcfe0"] = {
-            repo = {
-                commit = "47eca6ffcb79208b9f757df369b2ddad322aac16",
-                url = "https://github.com/libxse/libxse-xrepo"
-            },
-            version = "ce4414f5"
-        },
         ["ninja#31fecfc4"] = {
             repo = {
                 branch = "master",
