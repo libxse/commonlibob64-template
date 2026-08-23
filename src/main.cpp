@@ -2,6 +2,8 @@ OBSE_PLUGIN_PRELOAD(const OBSE::PreLoadInterface* a_obse)
 {
 	OBSE::Init(a_obse);
 
+	REX::INFO("Hello PreLoaded World!");
+
 	return true;
 }
 
@@ -9,7 +11,7 @@ OBSE_PLUGIN_LOAD(const OBSE::LoadInterface* a_obse)
 {
 	OBSE::Init(a_obse);
 
-	REX::INFO("Hello World!");
+	REX::INFO("Hello Loaded World!");
 
 	return true;
 }
